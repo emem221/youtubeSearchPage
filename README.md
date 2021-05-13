@@ -1,3 +1,1 @@
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+ cloned youtube search result page, built with react. click link to see live link: https://angry-lalande-379bad.netlify.app/
